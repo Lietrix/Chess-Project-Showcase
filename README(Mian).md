@@ -1,4 +1,24 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10882937&assignment_repo_type=AssignmentRepo)
+# Chess_Team_Project
+Project submitted for CS100 (Software Construction) - 5 members
+
+# Project Showcase
+
+This repository showcases my contributions to the **CS100 Chess Project**. The original repository is private and shared with collaborators.
+
+## Project Overview
+The project is a terminal based chess application that will allow players to play against eachother in a simple terminal browser. It incorporates all the rules of chess, and utulizes unicode characters to present a similar feel to an actual chess board. 
+♖♘♗♟♕
+
+## My Contributions
+- Created a Kanban board for distributing tasks and using SCRUM to manage and complete the project efficiently
+- Developed the front-end interface 
+- Integrated the back-end with the front-end for fluid user experience.
+
+## Technologies Used
+- C++
+- SCRUM
+
+
 # Chess Game
  
  Authors: [Joshua Harnett](https://github.com/Lietrix), [Mike Ibrahim](https://github.com/mibra0), [David Lu](https://github.com/david1u), [Matthew Chung](https://github.com/matthewc2003), [Ayush Kothule](https://github.com/akothule)
