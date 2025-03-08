@@ -89,7 +89,28 @@
 
 > **UPDATES 2.0**  
 > In this new class diagram, we scrapped the square class since we decided it violated the dependency inversion principle. We believed it was a violation because it was making the piece class (low level module) rely on the square class (low level module) instead of an abstract. We also made the menu class an abstract class, with various different menus as subclasses, to help enforce the open-close principle. Now we can add menus by creating new classes instead of editing the menu class itself. Lastly, the drawBoard class was created to enforce the single responsibility principle. Now we do not have a board class that is storing data while also outputting to terminal.
+# Chess_Team_Project
+Project submitted for CS100 (Software Construction) - 5 members
+
+# Project Showcase
+
+This repository showcases my contributions to the **CS100 Chess Project**. The original repository is private and shared with collaborators.
+
+## Project Overview
+The project is a terminal based chess application that will allow players to play against eachother in a simple terminal browser. It incorporates all the rules of chess, and utulizes unicode characters to present a similar feel to an actual chess board. 
+♖♘♗♟♕
+
+## My Contributions
+- Created a Kanban board for distributing tasks and using SCRUM to manage and complete the project efficiently
+- Developed the front-end interface 
+- Integrated the back-end with the front-end for fluid user experience.
+
+## Technologies Used
+- C++
+- SCRUM
  
+
+
  ## Screenshots
  > <img width="315" alt="image" src="https://github.com/cs100/final-project-mchun078-mibra033-dlu046-akoth013/assets/129913826/fbaac98f-2fec-4325-8267-4e160c2e77cc">  
  > <img width="302" alt="image" src="https://github.com/cs100/final-project-mchun078-mibra033-dlu046-akoth013/assets/129913826/6da71f8d-cc20-42ff-862c-9c21c12f335b">  
